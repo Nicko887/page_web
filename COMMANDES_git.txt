@@ -240,7 +240,7 @@ git log
 
 
 
-# Récapitulatif des commandes Git pour mettre à jour un commit GitHub à partir d'un commit en local
+# Récapitulatif des commandes Git pour METTRE A JOUR UN COMMIT GITHUB A PARTIR D'UN COMMIT LOCAL 
 
 # 1. Assurez-vous que votre dépôt local est à jour avec les dernières modifications distantes
 git fetch origin
